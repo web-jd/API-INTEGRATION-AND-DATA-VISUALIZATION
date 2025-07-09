@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH KUMAR
 
-*ENTER DESCRIPTION OF OUR TASK*: Python API Integration and Data Visualization
+*DESCRIPTION OF OUR TASK*: Python API Integration and Data Visualization
 
 In the modern digital landscape, data-driven applications are crucial across industries such as finance, healthcare, marketing, education, and more. Python, being a versatile and widely-used programming language, provides extensive support for working with APIs (Application Programming Interfaces) and creating insightful data visualizations. API integration allows Python applications to interact with external services or platforms to fetch, update, or manipulate data, while data visualization helps represent this data graphically for better analysis and decision-making.
 
